@@ -3,6 +3,15 @@
 Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
 
 [![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
+
+## ⚠️ Downloading Excel Files
+
+**Known issue:** If you download individual `.xlsx` files from GitHub, they can become corrupted and won't open in Excel.
+
+**Workarounds:**
+1. **Download the whole repo** — click **Code** → **Download ZIP** at the top of this page.
+2. **Use Google Drive instead** 👉 [https://lukeb.co/excel_files_alternate](https://lukeb.co/excel_files_alternate)
+
 ## Team Members 👥
 **🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
 **🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
